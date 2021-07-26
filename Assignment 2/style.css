@@ -1,0 +1,24 @@
+div
+{
+  width: 100%;
+  background-color: palevioletred;
+  border: 20px solid white;
+  color: white;
+  position: sticky;
+  top:0px;
+}
+h1
+{
+    color :tomato
+
+}
+li
+{
+    list-style-type: '\260E';
+    list-style-position: inside;
+}
+ul
+{
+ color: blue;
+ font-family: "Lucida Console", "Courier New", monospace;
+}
