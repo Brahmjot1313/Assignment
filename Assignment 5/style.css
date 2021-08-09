@@ -1,0 +1,33 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body
+{
+    text-transform: uppercase;
+}
+
+nav
+{
+    width: 65%;
+    margin:auto;
+}
+
+.jumbotron
+{
+    width: 65%;
+    margin:auto;
+    font-family: 'Pacifico', cursive;
+}
+img
+{
+    width: 150px;
+    height: 250px;;
+}
+.intro
+{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
